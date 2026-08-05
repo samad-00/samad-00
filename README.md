@@ -285,34 +285,21 @@ Full Stack Developer • AI Enthusiast • Backend Engineer • Data Analytics
 ---
 # ⚡ Development Stats
 
-<div align="center">
+# 📊 GitHub Statistics
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samad-00&theme=tokyonight"/>
+<p align="center">
 
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=samad-00&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<br>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=samad-00&theme=tokyonight&hide_border=true"/>
 
-<div align="center">
+</p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samad-00&theme=tokyonight"/>
+<p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samad-00&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samad-00&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samad-00&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samad-00&theme=tokyonight&utcOffset=5.5"/>
-
-</div>
-
----
-
+</p>
 ## ⚡ Fun Fact
 
 ```python
