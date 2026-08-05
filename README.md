@@ -142,3 +142,776 @@ Full Stack Developer • AI Enthusiast • Backend Engineer • Data Analytics
 
 </div>
 
+# 🚀 Core Skills
+
+```text
+███████████████████░░░  Python
+
+██████████████████░░░░  Django
+
+█████████████████░░░░░  React
+
+█████████████████░░░░░  REST API
+
+██████████████████░░░░  SQL
+
+████████████████░░░░░░  Java
+
+████████████████░░░░░░  Machine Learning
+
+██████████████████░░░░  Power BI
+
+█████████████████░░░░░  Data Analytics
+
+████████████████░░░░░░  Problem Solving
+
+```
+## 🚀 What I Build
+
+🔹 Full Stack Web Applications
+
+🔹 AI Powered Applications
+
+🔹 REST APIs
+
+🔹 Backend Systems
+
+🔹 Authentication Systems
+
+🔹 Data Analytics Dashboards
+
+🔹 Machine Learning Models
+
+🔹 Database Driven Applications
+
+🔹 Interactive Dashboards
+
+🔹 Automation Scripts
+
+## 🌱 Currently Learning
+
+⚡ Advanced Django
+
+⚡ React Ecosystem
+
+⚡ Docker
+
+⚡ PostgreSQL Optimization
+
+⚡ System Design
+
+⚡ Artificial Intelligence
+
+⚡ Large Language Models
+
+⚡ AI Agents
+
+⚡ Cloud Deployment
+
+⚡ Design Patterns
+
+## 🤝 Soft Skills
+
+✔ Problem Solving
+
+✔ Analytical Thinking
+
+✔ Collaborative Development
+
+✔ Adaptability
+
+✔ Teamwork
+
+✔ Communication
+
+✔ Continuous Learning
+
+✔ Time Management
+
+✔ Critical Thinking
+
+<!-- ============================ -->
+<!--      GITHUB ANALYTICS        -->
+<!-- ============================ -->
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samad-00&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=samad-00&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samad-00&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=samad-00&theme=algolia&no-frame=true&margin-w=10&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samad-00&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/samad-00/samad-00/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+# ⚡ Development Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samad-00&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samad-00&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samad-00&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samad-00&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samad-00&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+---
+
+## ⚡ Fun Fact
+
+```python
+while(alive):
+
+    learn()
+
+    build()
+
+    debug()
+
+    deploy()
+
+    repeat()
+```
+<!-- ============================ -->
+<!--      FEATURED PROJECTS       -->
+<!-- ============================ -->
+
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🌐 Social Media Platform
+
+A modern social media application built with Django featuring authentication, user profiles, social graph, feeds, messaging, notifications and search.
+
+### 🚀 Features
+
+- User Authentication
+- User Profiles
+- Follow / Unfollow
+- News Feed
+- Search
+- Messaging
+- Notifications
+- Admin Dashboard
+
+### 🛠 Tech
+
+`Python` `Django` `HTML` `CSS` `JavaScript` `SQLite`
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=samad-00&repo=Social_Media_Application&theme=tokyonight"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🤖 AI Learning Path Generator
+
+An AI-powered platform that creates personalized learning roadmaps based on users' goals, current skills, and interests.
+
+### Features
+
+- AI Recommendations
+- Personalized Learning
+- Progress Tracking
+- Dashboard
+- User Authentication
+
+### Tech
+
+`Python`
+
+`Django`
+
+`React`
+
+`REST API`
+
+`Machine Learning`
+
+</td>
+
+<td width="50%">
+
+Coming Soon 🚀
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 📊 Real-Time Air Quality Dashboard
+
+Interactive Power BI dashboard built using live Government AQI data.
+
+### Features
+
+✔ Live Data
+
+✔ Geo Mapping
+
+✔ AI Root Cause Analysis
+
+✔ Dynamic KPIs
+
+✔ 11 Visualizations
+
+✔ 11 DAX Measures
+
+✔ State-wise Analysis
+
+</td>
+
+<td width="50%">
+
+🛠
+
+Power BI
+
+Power Query
+
+DAX
+
+Government Open Data
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🦠 COVID-19 Dashboard
+
+Interactive dashboard for analyzing COVID data across India.
+
+### Features
+
+📈 Interactive Charts
+
+📍 State Analysis
+
+📊 KPIs
+
+📉 Trend Analysis
+
+⚡ Fast Filtering
+
+</td>
+
+<td width="50%">
+
+Python
+
+Dash
+
+Plotly
+
+Pandas
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🌾 Agricultural Crop Yield Dashboard
+
+Excel Dashboard for crop production analysis.
+
+### Features
+
+✔ Pivot Charts
+
+✔ KPIs
+
+✔ Slicers
+
+✔ Data Cleaning
+
+✔ Interactive Reports
+
+</td>
+
+<td width="50%">
+
+Excel
+
+Power Query
+
+Pivot Tables
+
+Charts
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🎮 Java Number Guess Game
+
+Desktop application built using Java Swing.
+
+### Features
+
+🎲 Random Number Generator
+
+🖥 GUI
+
+🎯 Score Tracking
+
+⚡ Responsive UI
+
+</td>
+
+<td width="50%">
+
+Java
+
+Swing
+
+AWT
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🔗 URL Shortener
+
+Modern URL Shortener with Analytics.
+
+### Features
+
+✔ URL Analytics
+
+✔ Click Tracking
+
+✔ QR Code
+
+✔ REST API
+
+✔ Dashboard
+
+</td>
+
+<td width="50%">
+
+React
+
+FastAPI
+
+SQLite
+
+Redis
+
+</td>
+
+</tr>
+
+</table>
+
+---
+# 💼 Project Highlights
+
+🚀 Built Full Stack Applications
+
+🤖 AI Powered Solutions
+
+📊 Interactive Dashboards
+
+🌐 REST APIs
+
+⚡ Backend Systems
+
+📈 Data Analytics
+
+🔐 Authentication Systems
+
+🗄 Database Driven Applications
+
+📱 Responsive Interfaces
+
+🧠 Machine Learning Applications
+
+
+⭐ Social Media Application
+
+⭐ AI Learning Path Generator
+
+⭐ Real-Time Air Quality Dashboard
+
+⭐ COVID Dashboard
+
+⭐ URL Shortener
+
+⭐ Java Number Guess Game
+
+<!-- ============================ -->
+<!--      CERTIFICATIONS          -->
+<!-- ============================ -->
+
+# 📜 Certifications
+
+<div align="center">
+
+| Certification | Organization | Status |
+|---------------|--------------|--------|
+| ☁️ Oracle Cloud Infrastructure 2025 Generative AI Professional | Oracle | ✅ Certified |
+| ☕ Mastering Java for Application Development | Lovely Professional University | ✅ Completed |
+| 🌐 Social Networks | NPTEL | ✅ Certified |
+
+</div>
+
+<br>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Oracle_Generative_AI-Professional-red?style=for-the-badge&logo=oracle"/>
+
+<img src="https://img.shields.io/badge/NPTEL-Certified-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Java-Application_Development-orange?style=for-the-badge&logo=java"/>
+
+</p>
+
+---
+# 🏅 Achievements
+
+🏆 Oracle Cloud Infrastructure 2025 Generative AI Professional Certified
+
+🏆 Successfully completed NPTEL Social Networks Certification
+
+📊 Developed a Real-Time Air Quality Dashboard using live Government Open Data
+
+📈 Built interactive analytical dashboards using Python, Power BI and Excel
+
+🚀 Built multiple Full Stack and Data Analytics projects
+
+💻 Continuously learning modern backend development and Artificial Intelligence
+
+---
+# 🎓 Education
+
+### 🎓 Bachelor of Technology (Computer Science & Engineering)
+
+🏛 Lovely Professional University
+
+📍 Punjab, India
+
+📅 2023 - Present
+
+🎯 CGPA: **6.98**
+
+---
+
+### 🏫 Intermediate
+
+Savitri Public School
+
+Percentage: **66%**
+
+---
+
+### 🏫 Matriculation
+
+P.G Senior Secondary School
+
+Percentage: **76%**
+
+---
+
+# 📅 Learning Journey
+
+```text
+2023 🎓 Started B.Tech CSE
+
+      │
+
+2025 ☕ Java Application Development
+
+      │
+
+2025 📊 Excel Dashboard Project
+
+      │
+
+2025 📈 COVID Dashboard
+
+      │
+
+2025 🌍 Air Quality Dashboard
+
+      │
+
+2025 ☁ Oracle OCI Generative AI
+
+      │
+
+2026 🚀 Full Stack Development
+
+      │
+
+2026 🤖 AI Applications
+
+      │
+
+2026 🌐 Open Source Contributions
+```
+
+---
+
+# 🌱 Currently Exploring
+
+🤖 Artificial Intelligence
+
+🧠 Machine Learning
+
+⚛ React Ecosystem
+
+🐍 Advanced Django
+
+🌐 REST APIs
+
+☁ Cloud Deployment
+
+🐳 Docker
+
+🏗 System Design
+
+⚡ AI Agents
+
+📦 Microservices
+
+---
+
+# 🎯 Goals for 2026
+
+✅ Build Production Ready Full Stack Applications
+
+✅ Master Django REST Framework
+
+✅ Learn Advanced React
+
+✅ Contribute to Open Source
+
+✅ Deploy Scalable Cloud Applications
+
+✅ Build AI Powered Products
+
+✅ Strengthen Data Structures & Algorithms
+
+✅ Secure a Software Development Role
+
+---
+
+# ❤️ What Motivates Me
+
+> I enjoy solving practical problems through software engineering, learning new technologies, and building applications that create real value. Every project is an opportunity to improve my skills and deliver something meaningful.
+
+---
+
+<!-- ============================ -->
+<!--       CONNECT WITH ME        -->
+<!-- ============================ -->
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/samad0">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:samad.ed08@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/samad-00">
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Let's Build Something Amazing Together
+
+<p align="center">
+
+💡 Open to
+
+• Software Engineering Opportunities
+
+• Open Source Contributions
+
+• AI Projects
+
+• Full Stack Development
+
+• Freelance Projects
+
+• Technical Collaborations
+
+</p>
+
+---
+
+# ☕ Support My Work
+
+<p align="center">
+
+If you enjoy my projects, consider giving them a ⭐.
+
+It motivates me to build more amazing things.
+
+</p>
+
+---
+<img src="https://raw.githubusercontent.com/samad-00/samad-00/output/github-contribution-grid-snake-dark.svg"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
+
+## 💡 Developer Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+## 😂 Random Dev Meme
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+
+
+<img src="https://metrics.lecoq.io/samad-00"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samad-00&theme=tokyonight"/>
+
+
+<div align="center">
+
+### Thanks for visiting my profile ❤️
+
+⭐ If you like my work, don't forget to star my repositories.
+
+🚀 Let's build something amazing together.
+
+</div>
