@@ -64,17 +64,17 @@
 
 ### 🚀 Core Skills
 
-```text
-Python              ██████████████████░░  90%
-Django               █████████████████░░  85%
-SQL                  █████████████████░░  85%
-Power BI             █████████████████░░  85%
-REST API             ████████████████░░░  80%
-Data Analytics        ████████████████░░░  80%
-React                ███████████████░░░░  78%
-Java                 ███████████████░░░░  75%
-Machine Learning     ██████████████░░░░░  72%
-```
+<p align="center">
+<img src="https://progress-bar.dev/90/?title=Python&width=600"/>
+<img src="https://progress-bar.dev/85/?title=Django&width=600"/>
+<img src="https://progress-bar.dev/85/?title=SQL&width=600"/>
+<img src="https://progress-bar.dev/85/?title=PowerBI&width=600"/>
+<img src="https://progress-bar.dev/80/?title=REST%20API&width=600"/>
+<img src="https://progress-bar.dev/80/?title=Data%20Analytics&width=600"/>
+<img src="https://progress-bar.dev/78/?title=React&width=600"/>
+<img src="https://progress-bar.dev/75/?title=Java&width=600"/>
+<img src="https://progress-bar.dev/72/?title=Machine%20Learning&width=600"/>
+</p>
 
 ```python
 while alive:
@@ -108,125 +108,7 @@ while alive:
 
 ---
 
-## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### 🌐 Social Media Platform
-A modern social media application built with Django featuring authentication, user profiles, a social graph, feeds, messaging, notifications, and search.
-
-**Features:** Auth • Profiles • Follow/Unfollow • Feed • Search • Messaging • Notifications • Admin Dashboard
-
-**Tech:** `Python` `Django` `HTML` `CSS` `JavaScript` `SQLite`
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=samad-00&repo=Social_Media_Application&theme=tokyonight&hide_border=true"/>
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 AI Learning Path Generator
-An AI-powered platform that creates personalized learning roadmaps based on users' goals, current skills, and interests.
-
-**Features:** AI Recommendations • Personalized Learning • Progress Tracking • Dashboard • Auth
-
-**Tech:** `Python` `Django` `React` `REST API` `Machine Learning`
-
-</td>
-<td width="50%" valign="middle" align="center">
-
-🚧 **Coming Soon**
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%">
-
-### 📊 Real-Time Air Quality Dashboard
-Interactive Power BI dashboard built on live Government AQI data.
-
-**Features:** Live Data • Geo Mapping • AI Root Cause Analysis • Dynamic KPIs • 11 Visualizations • 11 DAX Measures
-
-**Tech:** `Power BI` `Power Query` `DAX` `Govt. Open Data`
-
-</td>
-<td width="50%">
-
-### 🦠 COVID-19 Dashboard
-Interactive dashboard for analyzing COVID data across India.
-
-**Features:** Interactive Charts • State Analysis • KPIs • Trend Analysis • Fast Filtering
-
-**Tech:** `Python` `Dash` `Plotly` `Pandas`
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌾 Agricultural Crop Yield Dashboard
-Excel dashboard for crop production analysis.
-
-**Features:** Pivot Charts • KPIs • Slicers • Data Cleaning • Interactive Reports
-
-**Tech:** `Excel` `Power Query` `Pivot Tables`
-
-</td>
-<td width="50%">
-
-### 🎮 Java Number Guess Game
-Desktop application built using Java Swing.
-
-**Features:** Random Number Generator • GUI • Score Tracking • Responsive UI
-
-**Tech:** `Java` `Swing` `AWT`
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔗 URL Shortener
-Modern URL shortener with analytics.
-
-**Features:** URL Analytics • Click Tracking • QR Code • REST API • Dashboard
-
-**Tech:** `React` `FastAPI` `SQLite` `Redis`
-
-</td>
-<td width="50%" valign="middle">
-
-⭐ **Featured Repos**
-- Social Media Application
-- AI Learning Path Generator
-- Real-Time Air Quality Dashboard
-- COVID Dashboard
-- URL Shortener
-- Java Number Guess Game
-
-</td>
-</tr>
-</table>
-
----
 
 ## 📜 Certifications & Achievements
 
